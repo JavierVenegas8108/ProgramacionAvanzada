@@ -1,0 +1,50 @@
+ID,Nombre,Categoria,Precio,Stock,Imagen
+101,Martillo de Uña 16oz,Ferreteria,150.0,20,img/martillo.jpg
+102,Juego de Destornilladores,Ferreteria,280.0,15,img/destornilladores.jpg
+103,Pinzas de Corte 6 pulg,Ferreteria,120.0,25,img/pinzas.jpg
+104,Cinta Metrica 5m,Ferreteria,85.0,30,img/flexometro.jpg
+105,Llave Ajustable 8 pulg,Ferreteria,190.0,12,img/perica.jpg
+201,Aceite Vegetal 1L,Abarrotes,45.0,50,img/aceite_vegetal.jpg
+202,Arroz Blanco 1kg,Abarrotes,28.0,100,img/arroz.jpg
+203,Frijol Negro 1kg,Abarrotes,35.0,80,img/frijol.jpg
+204,Azucar Estándar 1kg,Abarrotes,32.0,60,img/azucar.jpg
+205,Sal de Mesa 500g,Abarrotes,15.0,40,img/sal.jpg
+301,Coca Cola 2.5L,Bebidas,42.0,36,img/coca_cola.jpg
+302,Agua Mineral 600ml,Bebidas,16.0,48,img/agua_mineral.jpg
+303,Jugo de Naranja 1L,Bebidas,25.0,24,img/jugo_naranja.jpg
+304,Leche Entera 1L,Bebidas,26.0,40,img/leche.jpg
+305,Te Helado 500ml,Bebidas,18.0,30,img/te_helado.jpg
+401,Leche Deslactosada 1L,Lacteos y Huevo,28.0,30,img/leche_des.jpg
+402,Huevo Blanco 30pzs,Lacteos y Huevo,85.0,15,img/huevo.jpg
+403,Queso Panela 400g,Lacteos y Huevo,65.0,20,img/queso.jpg
+404,Yogurt Natural 1kg,Lacteos y Huevo,48.0,12,img/yogurt.jpg
+405,Mantequilla 90g,Lacteos y Huevo,22.0,50,img/mantequilla.jpg
+501,Manzana Roja 1kg,Frutas y Verduras,45.0,20,img/manzana.jpg
+502,Platano Chiapas 1kg,Frutas y Verduras,22.0,25,img/platano.jpg
+503,Jitomate Saladet 1kg,Frutas y Verduras,32.0,30,img/jitomate.jpg
+504,Cebolla Blanca 1kg,Frutas y Verduras,28.0,20,img/cebolla.jpg
+505,Aguacate Hass 1kg,Frutas y Verduras,80.0,15,img/aguacate.jpg
+601,Pechuga de Pollo 1kg,Carnes y Pescados,120.0,10,img/pollo.jpg
+602,Bistec de Res 1kg,Carnes y Pescados,180.0,8,img/res.jpg
+603,Chuleta de Cerdo 1kg,Carnes y Pescados,110.0,12,img/cerdo.jpg
+604,Filete de Tilapia 1kg,Carnes y Pescados,140.0,10,img/pescado.jpg
+605,Molida de Sirloin 1kg,Carnes y Pescados,165.0,15,img/molida.jpg
+701,Jamon de Pavo 250g,Salchichoneria,45.0,20,img/jamon.jpg
+702,Salchicha de Pavo 500g,Salchichoneria,38.0,25,img/salchicha.jpg
+703,Tocino Ahumado 200g,Salchichoneria,55.0,15,img/tocino.jpg
+704,Chorizo Casero 200g,Salchichoneria,32.0,20,img/chorizo.jpg
+705,Queso Oaxaca 250g,Salchichoneria,58.0,18,img/oaxaca.jpg
+801,Pan de Caja Blanco,Panaderia,42.0,20,img/pan_caja.jpg
+802,Bolillo Pieza,Panaderia,2.5,100,img/bolillo.jpg
+803,Dona de Azucar,Panaderia,12.0,30,img/dona.jpg
+804,Concha de Vainilla,Panaderia,14.0,25,img/concha.jpg
+805,Pan Integral,Panaderia,48.0,15,img/pan_integral.jpg
+901,Detergente Polvo 1kg,Limpieza,38.0,40,img/detergente.jpg
+902,Limpiador Multiusos 1L,Limpieza,25.0,30,img/limpiador.jpg
+903,Cloro 1L,Limpieza,18.0,50,img/cloro.jpg
+904,Jabon de Trastes 500ml,Limpieza,28.0,35,img/trastes.jpg
+905,Suavizante de Telas 1L,Limpieza,35.0,25,img/suavizante.jpg
+1001,Shampoo 400ml,Cuidado Personal,65.0,20,img/shampoo.jpg
+1002,Jabon de Tocador,Cuidado Personal,18.0,60,img/jabon_cuerpo.jpg
+1003,Pasta Dental 100ml,Cuidado Personal,35.0,40,img/pasta_dental.jpg
+1004,Des
