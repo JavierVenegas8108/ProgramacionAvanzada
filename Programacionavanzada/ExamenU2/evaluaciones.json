@@ -1,0 +1,102 @@
+[
+  {
+    "id": "ADMINISTRACION DE BASE DE DATOS CORPORATIVAS_ROLON AGUILAR ELVIRA_4A",
+    "asignatura": "ADMINISTRACION DE BASE DE DATOS CORPORATIVAS",
+    "profesor": "ROLON AGUILAR ELVIRA",
+    "grupo": "4A",
+    "nombreProyecto": "",
+    "fecha": "27-03-2026",
+    "observaciones": "",
+    "alumnos": [],
+    "requisitos": [
+      {
+        "descripcion": "Entrega en tiempo",
+        "cumple": false
+      },
+      {
+        "descripcion": "Usa estándares de código",
+        "cumple": false
+      }
+    ]
+  },
+  {
+    "id": "TERMODINAMICA_LEAL DEL ANGEL GILBERTO_Esperando profesor...",
+    "asignatura": "TERMODINAMICA",
+    "profesor": "LEAL DEL ANGEL GILBERTO",
+    "grupo": "Esperando profesor...",
+    "nombreProyecto": "",
+    "fecha": "27-03-2026",
+    "observaciones": "",
+    "alumnos": [],
+    "requisitos": [
+      {
+        "descripcion": "Entrega en tiempo",
+        "cumple": false
+      },
+      {
+        "descripcion": "Usa estándares de código",
+        "cumple": false
+      }
+    ]
+  },
+  {
+    "id": "TERMODINAMICA_ARCOS ESPINOSA JAVIER AURELIO_I",
+    "asignatura": "TERMODINAMICA",
+    "profesor": "ARCOS ESPINOSA JAVIER AURELIO",
+    "grupo": "I",
+    "nombreProyecto": "",
+    "fecha": "27-03-2026",
+    "observaciones": "",
+    "alumnos": [],
+    "requisitos": [
+      {
+        "descripcion": "Entrega en tiempo",
+        "cumple": false
+      },
+      {
+        "descripcion": "Usa estándares de código",
+        "cumple": false
+      }
+    ]
+  },
+  {
+    "id": "ADMINISTRACION DE BASE DE DATOS CORPORATIVAS_HERNANDEZ MARIN JUAN CARLOS_I",
+    "asignatura": "ADMINISTRACION DE BASE DE DATOS CORPORATIVAS",
+    "profesor": "HERNANDEZ MARIN JUAN CARLOS",
+    "grupo": "I",
+    "nombreProyecto": "",
+    "fecha": "27-03-2026",
+    "observaciones": "",
+    "alumnos": [
+      {
+        "nombre": "CHONG ALVAREZ ANGEL IVALDI",
+        "criterio1": 10.0,
+        "criterio2": 6.5,
+        "criterio3": 5.5,
+        "promedio": 7.33
+      },
+      {
+        "nombre": "FELIPE GARCIA JUAN DIEGO",
+        "criterio1": 0.0,
+        "criterio2": 0.0,
+        "criterio3": 0.0,
+        "promedio": 0.0
+      },
+      {
+        "nombre": "GONZALEZ CAVAZOS ERICK ALAN",
+        "criterio1": 0.0,
+        "criterio2": 0.0,
+        "criterio3": 0.0,
+        "promedio": 0.0
+      },
+      {
+        "nombre": "GUERRERO SERRANO JAFETH OSWALDO",
+        "criterio1": 0.0,
+        "criterio2": 0.0,
+        "criterio3": 0.0,
+        "promedio": 0.0
+      }
+    ],
+    "requisitos": []
+  }
+]
